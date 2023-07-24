@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "e60fd700-e4be-40bb-a097-58ba02ef9580",
+      "name": "amit",
+      "email": "awdawd@dawwd"
+    },
+    {
+      "id": "d88917b2-1a35-46bc-b580-77e716cd45f6",
+      "name": "sudeep",
+      "email": "acd123@gmail.com"
+    },
+    {
+      "id": "76c49d94-382c-4a22-b9f3-fb8bd838ffa0",
+      "name": "sudeep",
+      "email": "213123123abc123@gmail.com"
+    }
+  ]
+}
